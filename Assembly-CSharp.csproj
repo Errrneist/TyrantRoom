@@ -70,6 +70,7 @@
     <Compile Include="Assets\Assignment 6\Scripts\SelectableTile.cs" />
     <Compile Include="Assets\Assignment 6\Scripts\SelectableTyrantPlayer.cs" />
     <Compile Include="Assets\DebugUI.cs" />
+    <Compile Include="Assets\jack_assets\GazeCursor\SimpleGazeCursor.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
